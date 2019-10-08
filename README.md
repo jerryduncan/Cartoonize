@@ -18,4 +18,14 @@ We will adhere to the following procedure to transform an RGB color image into a
 # Transformed Pictures
 The model was used on random pictures to test its efficiency
 
+- **Image one**
 ![Image one](https://github.com/aloko001/Cartoonize/blob/master/Animated/nafisat_pic.jpg)
+
+- **Image two**
+![Image two](https://github.com/aloko001/Cartoonize/blob/master/Animated/apst_josh.jpg)
+
+- **Image three**
+![Image three](https://github.com/aloko001/Cartoonize/blob/master/Animated/duncan.jpg)
+
+- **Image four**
+![Image four](https://github.com/aloko001/Cartoonize/blob/master/Animated/lion.jpg)
