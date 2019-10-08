@@ -10,7 +10,7 @@ We will adhere to the following procedure to transform an RGB color image into a
 - Use adaptive thresholding to detect and emphasize the edges in an edge mask.
 - Combine the color image from step 1 with the edge mask from step 4.
 
-# Libraries Neededhttps://github.com/aloko001/Cartoonize.git
+# Libraries Needed
 - Open cv
 - Numpy (optional)
 - Matplotlib
