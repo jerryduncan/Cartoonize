@@ -15,4 +15,7 @@ We will adhere to the following procedure to transform an RGB color image into a
 - Numpy (optional)
 - Matplotlib
 
-# Cartoonized Pictures
+# Transformed Pictures
+The model was used on random pictures to test its efficiency
+
+![image of nafisat](https://aloko001.github.com/animated/nafisat_pic.png)
