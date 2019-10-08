@@ -14,3 +14,5 @@ We will adhere to the following procedure to transform an RGB color image into a
 - Open cv
 - Numpy (optional)
 - Matplotlib
+
+# Cartoonized Pictures
