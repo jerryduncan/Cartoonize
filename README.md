@@ -18,4 +18,4 @@ We will adhere to the following procedure to transform an RGB color image into a
 # Transformed Pictures
 The model was used on random pictures to test its efficiency
 
-![image of nafisat](https://aloko001.github.com/animated/nafisat_pic.png)
+![Image one](https://github.com/aloko001/Cartoonize/blob/master/Animated/nafisat_pic.jpg)
