@@ -17,7 +17,8 @@ We will adhere to the following procedure to transform an RGB color image into a
 
 # Run in Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12qDnhXYFqI3EBgfxfQeh62Ek57j32emY)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/12qDnhXYFqI3EBgfxfQeh62Ek57j32emY)
 
 # Transformed Pictures
 The model was used on random pictures to test its efficiency
