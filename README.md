@@ -35,7 +35,7 @@ The model was used on random pictures to test its efficiency
 ![Image four](https://github.com/aloko001/Cartoonize/blob/master/Animated/lion.jpg)
 
 
-# Run Model
+# Git clone
 
 Download and unzip this [entire repository from GitHub](https://github.com/aloko001/Cartoonize.git), either interactively, or by entering the following in your Terminal.
 
