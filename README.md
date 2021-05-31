@@ -39,5 +39,5 @@ The model was used on random pictures to test its efficiency
 
 Download and unzip this [entire repository from GitHub](https://github.com/aloko001/Cartoonize.git), either interactively, or by entering the following in your Terminal.
 
-`https://github.com/aloko001/Cartoonize.git
+`https://github.com/jerryduncan/Cartoonize.git
 `
